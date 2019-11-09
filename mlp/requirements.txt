@@ -1,0 +1,15 @@
+jupyter
+xgboost
+sklearn.grid_search
+sklearn.ensemble
+sklearn.linear_model
+sklearn.preprocessing
+pprint
+sklearn.model_selection
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+re
+os
+datetime
